@@ -1,0 +1,21 @@
+/* Pre-Requisites: 
+   Javascript:
+    - Basic understanding of JavaScript syntax and concepts.
+    1.Variables
+    2.Arrays
+    3.Objects
+    4.Functions,
+    5.Arrow Functions
+    6.Destructring
+    */
+
+    /*What is Typescript?
+    TypeScript is a superset of JavaScript that adds optional static typing and other features to 
+    improve the development experience. It is designed to help  developers catch errors early and 
+    improve code maintainability.*/
+
+    /*Typescript is a superset of JavaScript, which means that any valid JavaScript code is also valid TypeScript code.
+    TypeScript adds optional static typing- which enables compiler to catch errors at compile time rather than runtime.
+    TypeScript adds interfaces meaning 
+     , and other features to JavaScript.
+    */
